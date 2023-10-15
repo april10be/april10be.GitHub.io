@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="https://april10be.github.io/sitemap.xsl"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+<url>
+<loc>https://april10be.github.io/</loc>
+</url>
+<url>
+<loc>https://april10be.github.io/areas-of-practice.html</loc>
+<lastmod>2023-10-15T17:23:20+02:00</lastmod>
+<image:image>
+<image:loc>https://april10be.github.io/media/posts/2/garage.jpeg</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://april10be.github.io/privacy-policy.html</loc>
+<lastmod>2023-10-15T17:42:26+02:00</lastmod>
+<image:image>
+<image:loc>https://april10be.github.io/media/posts/4/garage.jpeg</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://april10be.github.io/we.html</loc>
+<lastmod>2023-10-15T17:28:32+02:00</lastmod>
+<image:image>
+<image:loc>https://april10be.github.io/media/posts/3/garage.jpeg</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://april10be.github.io/media/posts/3/pascal.jpeg</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://april10be.github.io/media/posts/3/linkedin-logo-png-2024.png</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+</url>
+</urlset>
